@@ -1,0 +1,61 @@
+name: Mise à jour du profil
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"   # toutes les 6 heures
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["scripts/**", ".github/workflows/**"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile
+  cancel-in-progress: true
+
+jobs:
+  readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Générer l'activité et le graphe des langages
+        env:
+          # Avec un secret PROFILE_TOKEN (PAT en lecture), le graphe des
+          # langages compte aussi les dépôts privés. Sinon : public seulement.
+          GH_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+          INCLUDE_PRIVATE: ${{ secrets.PROFILE_TOKEN && '1' || '0' }}
+        run: python scripts/update_readme.py
+
+      - name: Commit si quelque chose a changé
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets/languages.svg
+          git diff --cached --quiet || git commit -m "chore: mise à jour automatique du profil"
+          git push
+
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+
+      - name: Publier sur la branche output
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "chore: graphe de contributions"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
