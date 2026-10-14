@@ -163,9 +163,11 @@ def render_activity(repos, now, limit=5):
     return "\n".join(lines)
 
 
-def render_stats(repos, now):
+def render_stats(repos, all_repos, now):
     stars = sum(r["stargazers_count"] for r in repos)
-    return (f"<sub>{len(repos)} dépôts publics &middot; {stars} étoiles "
+    private = sum(1 for r in all_repos if r.get("private"))
+    private = f" &middot; {private} privés" if private else ""
+    return (f"<sub>{len(repos)} dépôts publics{private} &middot; {stars} étoiles "
             f"&middot; mis à jour automatiquement le {fr_date(now)}</sub>")
 
 
@@ -181,13 +183,14 @@ def main():
     now = dt.datetime.now(dt.timezone.utc)
     repos = public_repos()
 
+    all_repos = language_repos(repos)
+
     SVG.parent.mkdir(exist_ok=True)
-    SVG.write_text(render_svg(language_totals(language_repos(repos))),
-                   encoding="utf-8")
+    SVG.write_text(render_svg(language_totals(all_repos)), encoding="utf-8")
 
     text = README.read_text(encoding="utf-8")
     text = replace_block(text, "ACTIVITY", render_activity(repos, now))
-    text = replace_block(text, "STATS", render_stats(repos, now))
+    text = replace_block(text, "STATS", render_stats(repos, all_repos, now))
     README.write_text(text, encoding="utf-8")
 
 

@@ -35,7 +35,18 @@
   </tr>
 </table>
 
-En parallèle, j'administre un serveur Minecraft communautaire et presque tout ce qui tourne autour est fait maison : plugins Paper en Java, bot Discord, panel web, assistant IA en jeu, et un service en Rust qui met les serveurs en veille quand personne n'y joue.
+<br>
+
+### En privé
+
+Une bonne partie de mon travail vit dans des dépôts privés : des applications que je prépare pour les stores, et l'infrastructure d'un serveur que j'administre.
+
+- **Kairoo** : application mobile d'heures miroir. Mon plus gros projet en nombre de commits. <sub>React Native · Expo · Supabase</sub>
+- **Orbit Pixel** : tracker d'habitudes en pixel art pensé pour la routine de prépa, avec application Android et API de synchronisation. <sub>Expo · Hono · MariaDB</sub>
+- **PrepaTrack** : suivi de prépa et simulateur de résultats aux concours (Mines-Ponts, Centrale-Supélec, X-ENS, CCINP). <sub>React · Supabase</sub>
+- **Tourny** : gestion de tournois sportifs pour les clubs, né pour un club de volley. <sub>Web · Flutter · Firebase</sub>
+- **Double Time** : application de notifications aux heures doubles, avec succès et points. <sub>Flutter</sub>
+- **Serveur Minecraft communautaire** : tout l'écosystème est fait maison. Plugins Paper, bot Discord qui synchronise comptes et grades, panel web et son API, CreeperGPT (un assistant IA en jeu limité à une liste blanche de commandes) et un kit de migration du VPS. La mise en veille automatique des serveurs, [reveilleur](https://github.com/Bastien-Gaffet/reveilleur), est publique. <sub>Java · Python · Rust · nginx</sub>
 
 <br>
 
@@ -67,5 +78,5 @@ En parallèle, j'administre un serveur Minecraft communautaire et presque tout c
 </picture>
 
 <!-- STATS:START -->
-<sub>9 dépôts publics &middot; 5 étoiles &middot; mis à jour automatiquement le 14 oct. 2026</sub>
+<sub>9 dépôts publics &middot; 26 privés &middot; 5 étoiles &middot; mis à jour automatiquement le 14 oct. 2026</sub>
 <!-- STATS:END -->
