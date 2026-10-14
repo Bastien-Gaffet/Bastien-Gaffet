@@ -59,11 +59,11 @@ Une bonne partie de mon travail vit dans des dépôts privés : des applications
 ### Activité récente
 
 <!-- ACTIVITY:START -->
-- <a href="https://github.com/Bastien-Gaffet/krino"><b>krino</b></a> &middot; il y a 3 jours &middot; <a href="https://github.com/Bastien-Gaffet/krino/commit/b855ef4d79727ba1716045af0d6eaa979d0765db"><code>chore(release): version 0.11.2</code></a>
-- <a href="https://github.com/Bastien-Gaffet/cdp-scraper"><b>cdp-scraper</b></a> &middot; il y a 26 jours &middot; <a href="https://github.com/Bastien-Gaffet/cdp-scraper/commit/dce6228451cdaa115ae70c10ed5e71e1a03b9064"><code>docs: complète le CHANGELOG 1.7.0 (vue mensuelle, correctif thème)</code></a>
-- <a href="https://github.com/Bastien-Gaffet/enphase-clarity"><b>enphase-clarity</b></a> &middot; il y a 1 mois &middot; <a href="https://github.com/Bastien-Gaffet/enphase-clarity/commit/54817aadc31a2bb8e4d3b1f2063cbde75acb9b4d"><code>feat: identité visuelle, plages HC multiples et correction des débord...</code></a>
-- <a href="https://github.com/Bastien-Gaffet/toolbox-py"><b>toolbox-py</b></a> &middot; il y a 2 mois &middot; <a href="https://github.com/Bastien-Gaffet/toolbox-py/commit/f29b56e8b271877381107a9189ba17906e9d090b"><code>trieur_doublons --similaires : ignorer les empreintes dégénérées (ima...</code></a>
-- <a href="https://github.com/Bastien-Gaffet/Robot_J4"><b>Robot_J4</b></a> &middot; il y a 3 mois &middot; <a href="https://github.com/Bastien-Gaffet/Robot_J4/commit/7e78e24b331756befd69a0f46a13af3d14cfad90"><code>docs: ajout de ARCHITECTURE.html (version autonome pour publication)</code></a>
+- <a href="https://github.com/Bastien-Gaffet/onde"><b>onde</b></a> &middot; aujourd'hui &middot; <a href="https://github.com/Bastien-Gaffet/onde/commit/ea02564c6b80924f39cd810a26f27437da800538"><code>docs: README clair avant publication</code></a>
+- <a href="https://github.com/Bastien-Gaffet/Hiveheart"><b>Hiveheart</b></a> &middot; aujourd'hui &middot; <a href="https://github.com/Bastien-Gaffet/Hiveheart/commit/0be868e451cee0f653e4b67940d048c12d61f401"><code>docs: README clair avant publication</code></a>
+- <a href="https://github.com/Bastien-Gaffet/driver-imprimante"><b>driver-imprimante</b></a> &middot; aujourd'hui &middot; <a href="https://github.com/Bastien-Gaffet/driver-imprimante/commit/f0b9c0230b4dbc855a7bfe4afcc3e47e8c9688a5"><code>docs: README clair avant publication</code></a>
+- <a href="https://github.com/Bastien-Gaffet/anotrack"><b>anotrack</b></a> &middot; aujourd'hui &middot; <a href="https://github.com/Bastien-Gaffet/anotrack/commit/124e29109cf3632a51e9ccc585cd0c7b8ff33696"><code>docs: README clair avant publication</code></a>
+- <a href="https://github.com/Bastien-Gaffet/reveilleur"><b>reveilleur</b></a> &middot; aujourd'hui &middot; <a href="https://github.com/Bastien-Gaffet/reveilleur/commit/98b0a68549f8dc1a5c065f9a40cfd7d0552c4520"><code>Fins de ligne LF forcées (scripts exécutés sous Linux)</code></a>
 <!-- ACTIVITY:END -->
 
 <br>
@@ -78,5 +78,5 @@ Une bonne partie de mon travail vit dans des dépôts privés : des applications
 </picture>
 
 <!-- STATS:START -->
-<sub>9 dépôts publics &middot; 26 privés &middot; 5 étoiles &middot; mis à jour automatiquement le 14 oct. 2026</sub>
+<sub>18 dépôts publics &middot; 17 privés &middot; 5 étoiles &middot; mis à jour automatiquement le 14 oct. 2026</sub>
 <!-- STATS:END -->
