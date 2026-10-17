@@ -59,11 +59,11 @@ Une bonne partie de mon travail vit dans des dépôts privés : des applications
 ### Activité récente
 
 <!-- ACTIVITY:START -->
-- <a href="https://github.com/Bastien-Gaffet/onde"><b>onde</b></a> &middot; il y a 2 jours &middot; <a href="https://github.com/Bastien-Gaffet/onde/commit/ea02564c6b80924f39cd810a26f27437da800538"><code>docs: README clair avant publication</code></a>
-- <a href="https://github.com/Bastien-Gaffet/Hiveheart"><b>Hiveheart</b></a> &middot; il y a 2 jours &middot; <a href="https://github.com/Bastien-Gaffet/Hiveheart/commit/0be868e451cee0f653e4b67940d048c12d61f401"><code>docs: README clair avant publication</code></a>
-- <a href="https://github.com/Bastien-Gaffet/driver-imprimante"><b>driver-imprimante</b></a> &middot; il y a 2 jours &middot; <a href="https://github.com/Bastien-Gaffet/driver-imprimante/commit/f0b9c0230b4dbc855a7bfe4afcc3e47e8c9688a5"><code>docs: README clair avant publication</code></a>
-- <a href="https://github.com/Bastien-Gaffet/anotrack"><b>anotrack</b></a> &middot; il y a 2 jours &middot; <a href="https://github.com/Bastien-Gaffet/anotrack/commit/124e29109cf3632a51e9ccc585cd0c7b8ff33696"><code>docs: README clair avant publication</code></a>
-- <a href="https://github.com/Bastien-Gaffet/reveilleur"><b>reveilleur</b></a> &middot; il y a 2 jours &middot; <a href="https://github.com/Bastien-Gaffet/reveilleur/commit/98b0a68549f8dc1a5c065f9a40cfd7d0552c4520"><code>Fins de ligne LF forcées (scripts exécutés sous Linux)</code></a>
+- <a href="https://github.com/Bastien-Gaffet/onde"><b>onde</b></a> &middot; il y a 3 jours &middot; <a href="https://github.com/Bastien-Gaffet/onde/commit/ea02564c6b80924f39cd810a26f27437da800538"><code>docs: README clair avant publication</code></a>
+- <a href="https://github.com/Bastien-Gaffet/Hiveheart"><b>Hiveheart</b></a> &middot; il y a 3 jours &middot; <a href="https://github.com/Bastien-Gaffet/Hiveheart/commit/0be868e451cee0f653e4b67940d048c12d61f401"><code>docs: README clair avant publication</code></a>
+- <a href="https://github.com/Bastien-Gaffet/driver-imprimante"><b>driver-imprimante</b></a> &middot; il y a 3 jours &middot; <a href="https://github.com/Bastien-Gaffet/driver-imprimante/commit/f0b9c0230b4dbc855a7bfe4afcc3e47e8c9688a5"><code>docs: README clair avant publication</code></a>
+- <a href="https://github.com/Bastien-Gaffet/anotrack"><b>anotrack</b></a> &middot; il y a 3 jours &middot; <a href="https://github.com/Bastien-Gaffet/anotrack/commit/124e29109cf3632a51e9ccc585cd0c7b8ff33696"><code>docs: README clair avant publication</code></a>
+- <a href="https://github.com/Bastien-Gaffet/reveilleur"><b>reveilleur</b></a> &middot; il y a 3 jours &middot; <a href="https://github.com/Bastien-Gaffet/reveilleur/commit/98b0a68549f8dc1a5c065f9a40cfd7d0552c4520"><code>Fins de ligne LF forcées (scripts exécutés sous Linux)</code></a>
 <!-- ACTIVITY:END -->
 
 <br>
