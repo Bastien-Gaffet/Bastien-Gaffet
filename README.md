@@ -60,10 +60,10 @@ Une bonne partie de mon travail vit dans des dépôts privés : des applications
 
 <!-- ACTIVITY:START -->
 - <a href="https://github.com/Bastien-Gaffet/portfolio-bastien-gaffet"><b>portfolio-bastien-gaffet</b></a> &middot; aujourd'hui &middot; <a href="https://github.com/Bastien-Gaffet/portfolio-bastien-gaffet/commit/21ff4a8dde5221738ab5c2d35e83465ec84b0088"><code>Round planet logo as favicon, footer and portfolio card; galaxy on th...</code></a>
-- <a href="https://github.com/Bastien-Gaffet/onde"><b>onde</b></a> &middot; il y a 5 jours &middot; <a href="https://github.com/Bastien-Gaffet/onde/commit/ea02564c6b80924f39cd810a26f27437da800538"><code>docs: README clair avant publication</code></a>
-- <a href="https://github.com/Bastien-Gaffet/Hiveheart"><b>Hiveheart</b></a> &middot; il y a 5 jours &middot; <a href="https://github.com/Bastien-Gaffet/Hiveheart/commit/0be868e451cee0f653e4b67940d048c12d61f401"><code>docs: README clair avant publication</code></a>
-- <a href="https://github.com/Bastien-Gaffet/driver-imprimante"><b>driver-imprimante</b></a> &middot; il y a 5 jours &middot; <a href="https://github.com/Bastien-Gaffet/driver-imprimante/commit/f0b9c0230b4dbc855a7bfe4afcc3e47e8c9688a5"><code>docs: README clair avant publication</code></a>
-- <a href="https://github.com/Bastien-Gaffet/anotrack"><b>anotrack</b></a> &middot; il y a 5 jours &middot; <a href="https://github.com/Bastien-Gaffet/anotrack/commit/124e29109cf3632a51e9ccc585cd0c7b8ff33696"><code>docs: README clair avant publication</code></a>
+- <a href="https://github.com/Bastien-Gaffet/onde"><b>onde</b></a> &middot; il y a 6 jours &middot; <a href="https://github.com/Bastien-Gaffet/onde/commit/ea02564c6b80924f39cd810a26f27437da800538"><code>docs: README clair avant publication</code></a>
+- <a href="https://github.com/Bastien-Gaffet/Hiveheart"><b>Hiveheart</b></a> &middot; il y a 6 jours &middot; <a href="https://github.com/Bastien-Gaffet/Hiveheart/commit/0be868e451cee0f653e4b67940d048c12d61f401"><code>docs: README clair avant publication</code></a>
+- <a href="https://github.com/Bastien-Gaffet/driver-imprimante"><b>driver-imprimante</b></a> &middot; il y a 6 jours &middot; <a href="https://github.com/Bastien-Gaffet/driver-imprimante/commit/f0b9c0230b4dbc855a7bfe4afcc3e47e8c9688a5"><code>docs: README clair avant publication</code></a>
+- <a href="https://github.com/Bastien-Gaffet/anotrack"><b>anotrack</b></a> &middot; il y a 6 jours &middot; <a href="https://github.com/Bastien-Gaffet/anotrack/commit/124e29109cf3632a51e9ccc585cd0c7b8ff33696"><code>docs: README clair avant publication</code></a>
 <!-- ACTIVITY:END -->
 
 <br>
