@@ -59,11 +59,11 @@ Une bonne partie de mon travail vit dans des dépôts privés : des applications
 ### Activité récente
 
 <!-- ACTIVITY:START -->
-- <a href="https://github.com/Bastien-Gaffet/portfolio-bastien-gaffet"><b>portfolio-bastien-gaffet</b></a> &middot; aujourd'hui &middot; <a href="https://github.com/Bastien-Gaffet/portfolio-bastien-gaffet/commit/21ff4a8dde5221738ab5c2d35e83465ec84b0088"><code>Round planet logo as favicon, footer and portfolio card; galaxy on th...</code></a>
-- <a href="https://github.com/Bastien-Gaffet/onde"><b>onde</b></a> &middot; il y a 6 jours &middot; <a href="https://github.com/Bastien-Gaffet/onde/commit/ea02564c6b80924f39cd810a26f27437da800538"><code>docs: README clair avant publication</code></a>
-- <a href="https://github.com/Bastien-Gaffet/Hiveheart"><b>Hiveheart</b></a> &middot; il y a 6 jours &middot; <a href="https://github.com/Bastien-Gaffet/Hiveheart/commit/0be868e451cee0f653e4b67940d048c12d61f401"><code>docs: README clair avant publication</code></a>
-- <a href="https://github.com/Bastien-Gaffet/driver-imprimante"><b>driver-imprimante</b></a> &middot; il y a 6 jours &middot; <a href="https://github.com/Bastien-Gaffet/driver-imprimante/commit/f0b9c0230b4dbc855a7bfe4afcc3e47e8c9688a5"><code>docs: README clair avant publication</code></a>
-- <a href="https://github.com/Bastien-Gaffet/anotrack"><b>anotrack</b></a> &middot; il y a 6 jours &middot; <a href="https://github.com/Bastien-Gaffet/anotrack/commit/124e29109cf3632a51e9ccc585cd0c7b8ff33696"><code>docs: README clair avant publication</code></a>
+- <a href="https://github.com/Bastien-Gaffet/reveilleur"><b>reveilleur</b></a> &middot; aujourd'hui &middot; <a href="https://github.com/Bastien-Gaffet/reveilleur/commit/26615625f8444fbea192d3f1ed3ea67120bb6766"><code>Réveilleur : proxy Minecraft de mise en veille (version publique, nom...</code></a>
+- <a href="https://github.com/Bastien-Gaffet/champs-proteges"><b>champs-proteges</b></a> &middot; aujourd'hui &middot; <a href="https://github.com/Bastien-Gaffet/champs-proteges/commit/88e5cc0c30225e38d06fe04d6b114fa801101417"><code>Version publique (noms et adresses d&#x27;exemple)</code></a>
+- <a href="https://github.com/Bastien-Gaffet/worldgen-fork"><b>worldgen-fork</b></a> &middot; aujourd'hui &middot; <a href="https://github.com/Bastien-Gaffet/worldgen-fork/commit/e448acc5f50757175817fe959ee797af727455d9"><code>Version publique (noms et adresses d&#x27;exemple)</code></a>
+- <a href="https://github.com/Bastien-Gaffet/krino"><b>krino</b></a> &middot; aujourd'hui &middot; <a href="https://github.com/Bastien-Gaffet/krino/commit/bb4eacf5128bf330d85076acadcdac5bad5707b0"><code>chore(release): version 0.11.5</code></a>
+- <a href="https://github.com/Bastien-Gaffet/toolbox-py"><b>toolbox-py</b></a> &middot; aujourd'hui &middot; <a href="https://github.com/Bastien-Gaffet/toolbox-py/commit/9ed9e1a0d51f8d125411250e8f230397ad025d32"><code>docs(readme): importer_nouveautes dans dependances et arborescence</code></a>
 <!-- ACTIVITY:END -->
 
 <br>
