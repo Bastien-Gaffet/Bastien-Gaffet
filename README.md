@@ -63,7 +63,7 @@ Une bonne partie de mon travail vit dans des dépôts privés : des applications
 - <a href="https://github.com/Bastien-Gaffet/reveilleur"><b>reveilleur</b></a> &middot; il y a 3 jours &middot; <a href="https://github.com/Bastien-Gaffet/reveilleur/commit/26615625f8444fbea192d3f1ed3ea67120bb6766"><code>Réveilleur : proxy Minecraft de mise en veille (version publique, nom...</code></a>
 - <a href="https://github.com/Bastien-Gaffet/champs-proteges"><b>champs-proteges</b></a> &middot; il y a 3 jours &middot; <a href="https://github.com/Bastien-Gaffet/champs-proteges/commit/88e5cc0c30225e38d06fe04d6b114fa801101417"><code>Version publique (noms et adresses d&#x27;exemple)</code></a>
 - <a href="https://github.com/Bastien-Gaffet/worldgen-fork"><b>worldgen-fork</b></a> &middot; il y a 3 jours &middot; <a href="https://github.com/Bastien-Gaffet/worldgen-fork/commit/e448acc5f50757175817fe959ee797af727455d9"><code>Version publique (noms et adresses d&#x27;exemple)</code></a>
-- <a href="https://github.com/Bastien-Gaffet/krino"><b>krino</b></a> &middot; il y a 3 jours &middot; <a href="https://github.com/Bastien-Gaffet/krino/commit/bb4eacf5128bf330d85076acadcdac5bad5707b0"><code>chore(release): version 0.11.5</code></a>
+- <a href="https://github.com/Bastien-Gaffet/krino"><b>krino</b></a> &middot; il y a 4 jours &middot; <a href="https://github.com/Bastien-Gaffet/krino/commit/bb4eacf5128bf330d85076acadcdac5bad5707b0"><code>chore(release): version 0.11.5</code></a>
 <!-- ACTIVITY:END -->
 
 <br>
