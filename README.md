@@ -59,7 +59,7 @@ Une bonne partie de mon travail vit dans des dépôts privés : des applications
 ### Activité récente
 
 <!-- ACTIVITY:START -->
-- <a href="https://github.com/Bastien-Gaffet/glacify"><b>glacify</b></a> &middot; hier &middot; <a href="https://github.com/Bastien-Gaffet/glacify/commit/c00c49f220f90b9aecf8eeb994de1b5c05cff272"><code>Serve one tub at a time</code></a>
+- <a href="https://github.com/Bastien-Gaffet/glacify"><b>glacify</b></a> &middot; il y a 2 jours &middot; <a href="https://github.com/Bastien-Gaffet/glacify/commit/c00c49f220f90b9aecf8eeb994de1b5c05cff272"><code>Serve one tub at a time</code></a>
 - <a href="https://github.com/Bastien-Gaffet/portfolio-bastien-gaffet"><b>portfolio-bastien-gaffet</b></a> &middot; il y a 7 jours &middot; <a href="https://github.com/Bastien-Gaffet/portfolio-bastien-gaffet/commit/21ff4a8dde5221738ab5c2d35e83465ec84b0088"><code>Round planet logo as favicon, footer and portfolio card; galaxy on th...</code></a>
 - <a href="https://github.com/Bastien-Gaffet/reveilleur"><b>reveilleur</b></a> &middot; il y a 7 jours &middot; <a href="https://github.com/Bastien-Gaffet/reveilleur/commit/26615625f8444fbea192d3f1ed3ea67120bb6766"><code>Réveilleur : proxy Minecraft de mise en veille (version publique, nom...</code></a>
 - <a href="https://github.com/Bastien-Gaffet/champs-proteges"><b>champs-proteges</b></a> &middot; il y a 7 jours &middot; <a href="https://github.com/Bastien-Gaffet/champs-proteges/commit/88e5cc0c30225e38d06fe04d6b114fa801101417"><code>Version publique (noms et adresses d&#x27;exemple)</code></a>
@@ -78,5 +78,5 @@ Une bonne partie de mon travail vit dans des dépôts privés : des applications
 </picture>
 
 <!-- STATS:START -->
-<sub>18 dépôts publics &middot; 22 privés &middot; 5 étoiles &middot; mis à jour automatiquement le 27 oct. 2026</sub>
+<sub>18 dépôts publics &middot; 22 privés &middot; 5 étoiles &middot; mis à jour automatiquement le 28 oct. 2026</sub>
 <!-- STATS:END -->
