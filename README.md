@@ -78,5 +78,5 @@ Une bonne partie de mon travail vit dans des dépôts privés : des applications
 </picture>
 
 <!-- STATS:START -->
-<sub>18 dépôts publics &middot; 26 privés &middot; 5 étoiles &middot; mis à jour automatiquement le 9 nov. 2026</sub>
+<sub>18 dépôts publics &middot; 26 privés &middot; 5 étoiles &middot; mis à jour automatiquement le 10 nov. 2026</sub>
 <!-- STATS:END -->
