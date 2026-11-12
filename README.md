@@ -60,10 +60,10 @@ Une bonne partie de mon travail vit dans des dépôts privés : des applications
 
 <!-- ACTIVITY:START -->
 - <a href="https://github.com/Bastien-Gaffet/enphase-clarity"><b>enphase-clarity</b></a> &middot; il y a 3 jours &middot; <a href="https://github.com/Bastien-Gaffet/enphase-clarity/commit/1c0e2ab702931643e7eb51cba29c4f5cfc701b1a"><code>docs: polices embarquées et test sur émulateur dans le README</code></a>
-- <a href="https://github.com/Bastien-Gaffet/glacify"><b>glacify</b></a> &middot; il y a 11 jours &middot; <a href="https://github.com/Bastien-Gaffet/glacify/commit/7df032d3676cda3bddb4f66c312f163cc0648f50"><code>Service tab recap in the pop look</code></a>
-- <a href="https://github.com/Bastien-Gaffet/portfolio-bastien-gaffet"><b>portfolio-bastien-gaffet</b></a> &middot; il y a 21 jours &middot; <a href="https://github.com/Bastien-Gaffet/portfolio-bastien-gaffet/commit/21ff4a8dde5221738ab5c2d35e83465ec84b0088"><code>Round planet logo as favicon, footer and portfolio card; galaxy on th...</code></a>
-- <a href="https://github.com/Bastien-Gaffet/reveilleur"><b>reveilleur</b></a> &middot; il y a 21 jours &middot; <a href="https://github.com/Bastien-Gaffet/reveilleur/commit/26615625f8444fbea192d3f1ed3ea67120bb6766"><code>Réveilleur : proxy Minecraft de mise en veille (version publique, nom...</code></a>
-- <a href="https://github.com/Bastien-Gaffet/champs-proteges"><b>champs-proteges</b></a> &middot; il y a 21 jours &middot; <a href="https://github.com/Bastien-Gaffet/champs-proteges/commit/88e5cc0c30225e38d06fe04d6b114fa801101417"><code>Version publique (noms et adresses d&#x27;exemple)</code></a>
+- <a href="https://github.com/Bastien-Gaffet/glacify"><b>glacify</b></a> &middot; il y a 12 jours &middot; <a href="https://github.com/Bastien-Gaffet/glacify/commit/7df032d3676cda3bddb4f66c312f163cc0648f50"><code>Service tab recap in the pop look</code></a>
+- <a href="https://github.com/Bastien-Gaffet/portfolio-bastien-gaffet"><b>portfolio-bastien-gaffet</b></a> &middot; il y a 22 jours &middot; <a href="https://github.com/Bastien-Gaffet/portfolio-bastien-gaffet/commit/21ff4a8dde5221738ab5c2d35e83465ec84b0088"><code>Round planet logo as favicon, footer and portfolio card; galaxy on th...</code></a>
+- <a href="https://github.com/Bastien-Gaffet/reveilleur"><b>reveilleur</b></a> &middot; il y a 22 jours &middot; <a href="https://github.com/Bastien-Gaffet/reveilleur/commit/26615625f8444fbea192d3f1ed3ea67120bb6766"><code>Réveilleur : proxy Minecraft de mise en veille (version publique, nom...</code></a>
+- <a href="https://github.com/Bastien-Gaffet/champs-proteges"><b>champs-proteges</b></a> &middot; il y a 22 jours &middot; <a href="https://github.com/Bastien-Gaffet/champs-proteges/commit/88e5cc0c30225e38d06fe04d6b114fa801101417"><code>Version publique (noms et adresses d&#x27;exemple)</code></a>
 <!-- ACTIVITY:END -->
 
 <br>
@@ -78,5 +78,5 @@ Une bonne partie de mon travail vit dans des dépôts privés : des applications
 </picture>
 
 <!-- STATS:START -->
-<sub>18 dépôts publics &middot; 26 privés &middot; 5 étoiles &middot; mis à jour automatiquement le 11 nov. 2026</sub>
+<sub>18 dépôts publics &middot; 26 privés &middot; 5 étoiles &middot; mis à jour automatiquement le 12 nov. 2026</sub>
 <!-- STATS:END -->
